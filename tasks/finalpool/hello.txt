@@ -1,1 +1,5 @@
-hello-pool
+# Final Pool
+
+This directory collects the task entries from the Task Tracker that were marked
+**implemented**. Each entry lives in `tasks/finalpool/<task-name>/` and follows
+the repository example layout (`docs/task.md`).
